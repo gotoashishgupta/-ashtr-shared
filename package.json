@@ -1,0 +1,10 @@
+{
+  "name": "@ashtr/shared",
+  "version": "0.0.1",
+  "description": "angular shared modules",
+  "main": "index.ts",
+  "repository": "git@github.com:gotoashishgupta/-ashtr-shared.git",
+  "author": "Ashish Gupta <gotoashishgupta@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
